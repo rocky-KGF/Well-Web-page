@@ -1,0 +1,224 @@
+body{
+  background-color: white;
+  text-align:center;
+  margin:0;
+}
+.main{
+  background-image:url(../images/bg-hero-desktop.svg);
+}
+.skill{
+  height:400px;
+  margin:100px 100px 10px 100px;
+  box-shadow: 10px 10px 8px #888888;
+  box-shadow: 0 0 5px 2px #ccc; /* with blur shadow*/
+
+  border-radius: 20px;
+}
+.skill-row-1{
+  position:relative;
+  top:120px;
+  right:100px;
+
+}
+.headings{
+  font-family:"Poppins",sans-serif;
+  font-size: 30px;
+  position:relative;
+  right:120px;
+}
+.headings1{
+  font-family:"Poppins",sans-serif;
+  font-size:30px;
+}
+.skill-row-2{
+  position: relative;
+   top:150px;
+}
+.paragraph2{
+  width:80%;
+  position:relative;
+  left:150px;
+  text-align: left;
+  font-size:20px;
+  line-height:1.5;
+}
+.image{
+  float:right;
+  position:relative;
+  right: 150px;
+  top:50px;
+}
+.image1{
+  float:left;
+  position:relative;
+  left:80px;
+  top:50px;
+
+}
+.images{
+  position:relative;
+  left:300px;
+  top:150px;
+}
+.content{
+  width:40%;
+  position:relative;
+  bottom:250px;
+  text-align:left;
+  left:100px;
+}
+.mainheading{
+  font-family: "Poppins",sans-serif;
+  font-size:35px;
+}
+.paragraph1{
+    width: 40%;
+    text-align: left;
+    position:relative;
+    left:150px;
+    font-size:20px;
+    line-height:1.5;
+}
+.paragraph{
+  font-size:28px;
+  line-height: 1.5;
+}
+.logo{
+  position:relative;
+  bottom:730px;
+  right:370px;
+
+}
+.butn{
+  position:relative;
+  right:580px;
+  bottom:250px;
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: #fa08b9;
+  border-color: #fa08b9;
+  padding: 14px 40px 16px 40px;
+  text-decoration: none;
+}
+.butn:hover {
+  background: #f50c88;
+  background-image: -webkit-linear-gradient(top, #f50c88, #3498db);
+  background-image: -moz-linear-gradient(top, #f50c88, #3498db);
+  background-image: -ms-linear-gradient(top, #f50c88, #3498db);
+  background-image: -o-linear-gradient(top, #f50c88, #3498db);
+  background-image: linear-gradient(to bottom, #f50c88, #3498db);
+  text-decoration: none;
+}
+.shldmove{
+  background-color: white;
+  width:50%;
+  margin:0 auto 0 auto;
+  box-shadow: 10px 10px 8px #888888;
+  box-shadow: 0 0 5px 2px #ccc; /* with blur shadow*/
+  border-radius: 20px;
+  position:relative;
+  top:100px;
+}
+.bottomcontainer{
+  box-shadow: 10px 10px 8px #888888;
+  box-shadow: 0 0 5px 2px #ccc; /* with blur shadow*/
+  border-radius: 20px;
+}
+.butn1{
+  margin: 20px 0 50px 0;
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: #fa08b9;
+  border-color: #fa08b9;
+  padding: 14px 40px 16px 40px;
+  text-decoration: none;
+}
+.butn1:hover {
+  background: #f50c88;
+  background-image: -webkit-linear-gradient(top, #f50c88, #3498db);
+  background-image: -moz-linear-gradient(top, #f50c88, #3498db);
+  background-image: -ms-linear-gradient(top, #f50c88, #3498db);
+  background-image: -o-linear-gradient(top, #f50c88, #3498db);
+  background-image: linear-gradient(to bottom, #f50c88, #3498db);
+  text-decoration: none;
+}
+.bh{
+font-family: "Poppins",sans-serif;
+padding-top: 60px;
+}
+.bottompart{
+  height:500px;
+  background-color:#02383c;
+  text-align: left;
+}
+.imagesbt{
+  margin:160px 0 200px 100px;
+}
+.location{
+  position:relative;
+  bottom: 150px;
+  right:240px;
+
+}
+.paragraphbt{
+  width:30%;
+  line-height:1.5;
+  position: relative;
+  left:140px;
+  bottom:190px;
+  color:white;
+  font-family:Arial,sens-serif;
+}
+.phone{
+  position:relative;
+  left:100px;
+  bottom:190px;
+}
+.phoneph{
+  position:relative;
+  left:140px;
+  bottom:225px;
+  color:white;
+  font-family:Arial,sens-serif;
+}
+.mail{
+  position:relative;
+  left:100px;
+  bottom:210px;
+}
+.mailph{
+  position:relative;
+  left:140px;
+  bottom:245px;
+  color:white;
+  font-family:Arial,sens-serif;
+}
+.table{
+  position:relative;
+  bottom: 450px;
+  left:600px;
+  column-gap: 40px;
+}
+td{
+  padding-left:50px;
+  color: white;
+}
+td:hover{
+  color:#52de97;
+}
+.socialnet{
+  position: relative;
+  left:1090px;
+  bottom:670px;
+}
+.padi{
+  padding-left:10px;
+}
